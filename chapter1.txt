@@ -1,1 +1,1 @@
-this is a trial of git and its version control
+this is a trial of branching and its version control
